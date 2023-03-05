@@ -1,6 +1,6 @@
 ### Hi there 👋
 <!-- About me -->
-Senior Dev @ chpter.co
+I am Kipling Kelvin
 ```go
 kiplingkelvin := developer{
     about: about{
